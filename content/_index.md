@@ -55,8 +55,7 @@ sections:
           date_start: '2022-08-01'
           date_end: ''
           description: |2-  
-            Software Engineer at the School of Mechanical and Mechatronics at UTS. The product consists of working on multiple components in the domains such as natural language processing and robotics.
-            Skills-> 
+            Software Engineer at the School of Mechanical and Mechatronics at UTS. The product consists of working on multiple components in the domains such as natural language processing and robotics. Required Skill:
             * Docker 
             * Computer Vision 
             * Python (Programming Language) 
@@ -69,8 +68,13 @@ sections:
           location: Sydney
           date_start: '2021-11-01'
           date_end: '2022-07-31'
-          description: "Software Engineer-AI(Deep Learning). The project utilizes Deep Learning techniques to perform Search And Rescue Operations (SARS) in flooded areas; detect objects of interest and rescue them by dropping life-saving pods. The project was in collaboration with Australia4Innovation and LQTDU Vietnam.
-          Skills: TensorFlow · PyTorch · OpenCV · Python (Programming Language) · Deep Learning"
+          description: |2-
+            Software Engineer-AI(Deep Learning). The project utilizes Deep Learning techniques to perform Search And Rescue Operations (SARS) in flooded areas; detect objects of interest and rescue them by dropping life-saving pods. The project was in collaboration with Australia4Innovation and LQTDU Vietnam. Required Skill:
+            * TensorFlow 
+            * PyTorch  
+            * OpenCV 
+            * Python (Programming Language) 
+            * Deep Learning
 
         - title: Casual Academic
           company: University of Technology, Sydney
@@ -86,7 +90,12 @@ sections:
           location: Sydney
           date_start: '2020-11-01'
           date_end: '2022-02-01'
-          description: Research Internship under U.T.S. supervisor Dr S. Nabin (Senior Lecturer and Co-Director Intelligence Drone Lab) in the domain of Computer Vision using Machine and Deep Learning techniques. Consists of working on Computer Vision-based problems and publishing the obtained experimental results.
+          description: |2-
+            Research Internship under U.T.S. supervisor Dr S. Nabin (Senior Lecturer and Co-Director Intelligence Drone Lab) in the domain of Computer Vision using Machine and Deep Learning techniques. Consists of working on Computer Vision-based problems and publishing the obtained experimental results. Required Skill:
+            * TensorFlow 
+            * PyTorch  
+            * OpenCV 
+            * Python (Programming Language) 
 
     design:
       columns: '2'
