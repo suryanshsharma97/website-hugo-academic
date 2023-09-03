@@ -270,7 +270,7 @@ sections:
     title: Gallery
     subtitle: 'Extra-curricular'
     text: |-
-      {{< gallery album="exra" >}}
+      {{< gallery album="extra" >}}
   design:
     columns: '1'
 
