@@ -283,7 +283,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Kindly fill out the below template if you wish to contact me, thank you.
       # Contact (add or remove contact options as necessary)
       email: sharma.suryansh97@gmail.com
       phone: Available Upon Request
