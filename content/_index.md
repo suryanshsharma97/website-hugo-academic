@@ -106,23 +106,23 @@ sections:
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-        #   url: ''
-        # - title: 'Deep Learning Specialization'
-        #   certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/RRBDYVPR6R2R
-        #   date_end: ''
-        #   date_start: '2018-08-01'
-        #   description: ''
-        #   organization: Coursera
-        #   organization_url: https://www.coursera.org
-        #   url: ''
-        # - title: 'Sequence Models'
-        #   certificate_url: https://www.coursera.org/account/accomplishments/certificate/5RMQ89NED9MQ
-        #   date_end: ''
-        #   date_start: '2018-08-01'
-        #   description: ''
-        #   organization: Coursera
-        #   organization_url: https://www.coursera.org
-        #   url: ''
+          url: ''
+        - title: 'Deep Learning Specialization'
+          certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/RRBDYVPR6R2R
+          date_end: ''
+          date_start: '2018-08-01'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          url: ''
+        - title: 'Sequence Models'
+          certificate_url: https://www.coursera.org/account/accomplishments/certificate/5RMQ89NED9MQ
+          date_end: ''
+          date_start: '2018-08-01'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          url: ''
         # - title: 'Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization' 
         #   certificate_url: https://www.coursera.org/account/accomplishments/verify/4BZ4RNPALK46
         #   date_end: '2'
