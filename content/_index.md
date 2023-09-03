@@ -54,8 +54,8 @@ sections:
           location: Sydney
           date_start: '2022-08-01'
           date_end: ''
-          description:  Software Engineer at the School of Mechanical and Mechatronics at UTS. The product consists of working on multiple components in the domains such as natural language processing and robotics.
-          |2-
+          description: |2-  
+          Software Engineer at the School of Mechanical and Mechatronics at UTS. The product consists of working on multiple components in the domains such as natural language processing and robotics.
           Skills-> 
           *Docker 
           *Computer Vision 
