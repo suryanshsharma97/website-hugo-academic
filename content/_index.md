@@ -57,11 +57,11 @@ sections:
           description: |2-  
             Software Engineer at the School of Mechanical and Mechatronics at UTS. The product consists of working on multiple components in the domains such as natural language processing and robotics.
             Skills-> 
-            *Docker 
-            *Computer Vision 
-            *Python (Programming Language) 
-            *Natural Language Processing (NLP) 
-            *Robot Operating System (ROS)
+            * Docker 
+            * Computer Vision 
+            * Python (Programming Language) 
+            * Natural Language Processing (NLP) 
+            * Robot Operating System (ROS)
 
         - title: Software Engineer
           company: University of Technology, Sydney
