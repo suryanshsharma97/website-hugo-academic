@@ -61,8 +61,8 @@ sections:
           company: University of Technology, Sydney
           company_url: 'https://www.uts.edu.au/about/faculty-engineering-and-information-technology'
           location: Sydney
-          # date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2016-01-01'
+          #date_end: '2020-12-31'
           description: Taught subjects as Deep Learning and Convulitional Neural Networks, Python for data visualization.
 
         - title: Research Internship
