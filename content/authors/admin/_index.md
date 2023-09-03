@@ -35,10 +35,10 @@ education:
   courses:
     - course: Master in Information Technology
       institution: University of Technology, Sydney
-      year: 2019
+      year: 2021
     - course: Bachelors of Technology
       institution: Birla Institute of Technology, Mesra
-      year: 2014
+      year: 2018
 
 
 # Social/Academic Networking
@@ -76,6 +76,6 @@ email: 'sharma.suryansh97@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Suryansh SHARMA is a Software Engineer(S.E.) in School of Mechanical and Mechatronics at University of Technology Sydney. His work has been in the topics such as convolutional neural networks, machine learning, natural language processing and robotic operating system(ROS). He completed his Masters in 2021 from University of Technology, Syndey and was also awarded Dean's List in 2020 and 2021 while having a W.A.M.of 88.25 across his 2 years of study.    
+Suryansh SHARMA is a Software Engineer (S.E.) in the School of Mechanical and Mechatronics at the University of Technology Sydney. His work has been on convolutional neural networks, machine learning, natural language processing, and robotic operating system (ROS). He completed his Masters in 2021 from the University of Technology, Syndey and was also awarded Dean's List in 2020 and 2021 while having a W.A.M. of 88.25 across his 2 years of study.    
 
 {style="text-align: justify;"}
