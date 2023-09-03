@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MIT in Data Analytics
+    - course: Master in Information Technology (Major Data Analytics)
       institution: University of Technology, Sydney
       year: 2019
     - course: B.Tech in Computer Science
