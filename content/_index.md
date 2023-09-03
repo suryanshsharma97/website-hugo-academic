@@ -180,7 +180,7 @@ sections:
           organization_url: https://www.coursera.org
           url: ''
     design:
-      columns: '2'
+      columns: '4'
   - block: collection
     id: posts
     content:
