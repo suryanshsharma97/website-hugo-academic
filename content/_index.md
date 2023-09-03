@@ -91,7 +91,7 @@ sections:
           organization: HackerRank
           organization_url: https://www.hackerrank.com
           url: ''
-          - title: 'Data@ANZ Virtual Experience Program Partcipant' 
+        - title: 'Data@ANZ Virtual Experience Program Partcipant' 
           certificate_url: https://insidesherpa.s3.amazonaws.com/completion-certificates/ANZ/ZLJCsrpkHo9pZBJNY_ANZ_iNzaCFhN8cR4pMJsu_completion_certificate.pdf
           date_end: ''
           date_start: '2020-07-02'
