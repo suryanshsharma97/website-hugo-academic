@@ -258,7 +258,7 @@ sections:
 
   - block: markdown
     content:
-      title: Gallery
+      title: Gallery(Work)
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -267,8 +267,8 @@ sections:
   
   - block: markdown
     content:
-    title: Gallery
-    subtitle: 'Extra-curricular'
+    title: Gallery(Extra-curricular)
+    subtitle: ''
     text: |-
       {{< gallery album="extra" >}}
   design:
