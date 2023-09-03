@@ -265,14 +265,14 @@ sections:
     design:
       columns: '1'
   
-  # - block: markdown
-  # content:
-  #   title: Gallery
-  #   subtitle: 'Extra-curricular'
-  #   text: |-
-  #     {{< gallery album="extra" >}}
-  # design:
-  #   columns: '1'
+  - block: markdown
+    content:
+    title: Gallery
+    subtitle: 'Extra-curricular'
+    text: |-
+      {{< gallery album="extra" >}}
+  design:
+    columns: '1'
 
   - block: contact
     id: contact
