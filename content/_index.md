@@ -258,7 +258,7 @@ sections:
 
   - block: markdown
     content:
-      title: Gallery(Work)
+      title: Work
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -267,12 +267,12 @@ sections:
   
   - block: markdown
     content:
-    title: Gallery(Extra-curricular)
-    subtitle: ''
-    text: |-
-      {{< gallery album="extra" >}}
-  design:
-    columns: '1'
+      title: Extra-curricular
+      subtitle: ''
+      text: |-
+        {{< gallery album="extracurricular" >}}
+    design:
+      columns: '1'
 
   - block: contact
     id: contact
