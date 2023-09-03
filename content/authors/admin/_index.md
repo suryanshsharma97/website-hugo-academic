@@ -75,6 +75,6 @@ email: 'sharma.suryansh97@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Suryansh SHARMA is a software Engineer at School of Mechanical and Mechatronics, University of Technology Sydney. His work has been in the topics such as convolutional neural networks, machine learning, natural language processing and robotic operating system(ROS).  
+Suryansh SHARMA is a Software Engineer(S.E.) in School of Mechanical and Mechatronics at University of Technology Sydney. His work has been in the topics such as convolutional neural networks, machine learning, natural language processing and robotic operating system(ROS).  
 
 {style="text-align: justify;"}
