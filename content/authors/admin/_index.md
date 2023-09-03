@@ -76,6 +76,6 @@ email: 'sharma.suryansh97@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Suryansh SHARMA is a Software Engineer(S.E.) in School of Mechanical and Mechatronics at University of Technology Sydney. His work has been in the topics such as convolutional neural networks, machine learning, natural language processing and robotic operating system(ROS).  
+Suryansh SHARMA is a Software Engineer(S.E.) in School of Mechanical and Mechatronics at University of Technology Sydney. His work has been in the topics such as convolutional neural networks, machine learning, natural language processing and robotic operating system(ROS). He completed his Masters in 2021 from University of Technology, Syndey and was also awarded Dean's List in 2020 and 2021 while having a W.A.M.of 88.25 across his 2 years of study.    
 
 {style="text-align: justify;"}

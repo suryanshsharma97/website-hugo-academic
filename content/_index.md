@@ -289,7 +289,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: sharma.suryansh97@gmail.com
       phone: Available Upon Request
-      appointment_url: 'https://calendly.com'
+      appointment_url: 'https://calendly.com/sharma-suryansh97'
       address:
         city: Sydney
         region: NSW
