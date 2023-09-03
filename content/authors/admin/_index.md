@@ -45,7 +45,6 @@ education:
          * Major in Computer Science.
           * Distinction Grade Point.
  year: 2014
-      description: 
 
 
 # Social/Academic Networking
