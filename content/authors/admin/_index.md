@@ -34,18 +34,17 @@ interests:
 education:
   courses:
     - course: Master in Information Technology
-      institution: |-
-        University of Technology, Sydney
-          * Major in Data Analytics (Dean’s List, 2020 & 2021).
-          * GPA of 6.67 out of 7 (88.25 WAM)
+      institution: University of Technology, Sydney
       year: 2019
+      description: 
+        * Major in Data Analytics (Dean’s List, 2020 & 2021).
+        * GPA of 6.67 out of 7 (88.25 WAM)
     - course: Bachelors of Technology
-      institution: |-
-        Birla Institute of Technology, Mesra
-         * Major in Computer Science.
-          * Distinction Grade Point.
- year: 2014
-
+      institution: Birla Institute of Technology, Mesra
+      year: 2014
+      description: |-
+        * Major in Computer Science.
+        * Distinction Grade Point.
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
