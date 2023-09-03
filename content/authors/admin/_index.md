@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Suryansh SHARMA 吳恩達
+title: Mr. Suryansh SHARMA
 
 # Full name (for SEO)
 first_name: Suryansh
