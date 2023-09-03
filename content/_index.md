@@ -15,18 +15,39 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        # - name: R
+        #   description: 90%
+        #   icon: r-project
+        #   icon_pack: fab
+        # - name: Statistics
+        #   description: 100%
+        #   icon: chart-line
+        #   icon_pack: fas
+        # - name: Photography
+        #   description: 10%
+        #   icon: camera-retro
+        #   icon_pack: fas
+        - name: Python
           description: 90%
-          icon: r-project
+          icon: python
           icon_pack: fab
-        - name: Statistics
+        - name: Computer Vision
           description: 100%
-          icon: chart-line
+          icon: Natural Language Processing
           icon_pack: fas
-        - name: Photography
+        - name: Machine Learning
           description: 10%
           icon: camera-retro
           icon_pack: fas
+        - name: Robotic Operating System(R.O.S)
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
+        - name: Docker
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
+
   - block: experience
     content:
       title: Experience
@@ -63,7 +84,7 @@ sections:
           location: Sydney
           date_start: '2016-01-01'
           #date_end: '2020-12-31'
-          description: Taught subjects as Deep Learning and Convulitional Neural Networks, Python for data visualization.
+          description: Tutored three subjects during my postgrad study; Deep Learning & Convolutional Neural Networks(CNN), Python for Data Visualization and .NET application development.
 
         - title: Research Internship
           company: University of Technology, Sydney
