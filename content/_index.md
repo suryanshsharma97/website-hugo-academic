@@ -105,29 +105,29 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/NFHUZ2RRDSH8
+        - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2020-12-15'
+          date_start: '2021-01-25'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: 'Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning'
+          title: Neural Networks and Deep Learning
           url: ''
-        - certificate_url: https://www.hackerrank.com/certificates/cf16d810f604
+        - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2020-09-05'
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          organization: edX
+          organization_url: https://www.edx.org
+          title: Blockchain Fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
           description: ''
-          organization: HackerRank
-          organization_url: https://www.hackerrank.com
-          title: 'Python(Basic)'
-          url: ''
-        - certificate_url: https://insidesherpa.s3.amazonaws.com/completion-certificates/ANZ/ZLJCsrpkHo9pZBJNY_ANZ_iNzaCFhN8cR4pMJsu_completion_certificate.pdf
-          date_end: ''
-          date_start: '2020-07-02'
-          description: ''
-          organization: ANZ
-          organization_url: https://www.anz.com.au
-          title: 'Data@ANZ Virtual Experience Program Partcipant'
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
           url: ''
     design:
       columns: '2'
