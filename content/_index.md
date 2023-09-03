@@ -115,7 +115,7 @@ sections:
           organization: Coursera
           organization_url: https://www.coursera.org
           url: ''
-          - title: 'Sequence Models'
+        - title: 'Sequence Models'
           certificate_url: https://www.coursera.org/account/accomplishments/certificate/5RMQ89NED9MQ
           date_end: ''
           date_start: '2018-08-01'
@@ -123,7 +123,7 @@ sections:
           organization: Coursera
           organization_url: https://www.coursera.org
           url: ''
-          - title: 'Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization' 
+        - title: 'Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization' 
           certificate_url: https://www.coursera.org/account/accomplishments/verify/4BZ4RNPALK46
           date_end: '2'
           date_start: '2018-08-01'
@@ -131,7 +131,7 @@ sections:
           organization: Coursera
           organization_url: https://www.coursera.org
           url: ''
-          - title: 'Neural Networks and Deep Learning' 
+        - title: 'Neural Networks and Deep Learning' 
           certificate_url: https://www.coursera.org/account/accomplishments/verify/FKFA3SS8XEJC
           date_end: ''
           date_start: '2018-07-15'
@@ -139,7 +139,7 @@ sections:
           organization: Coursera
           organization_url: https://www.coursera.org
           url: ''
-          - title: 'Structuring Machine Learning Projects'
+        - title: 'Structuring Machine Learning Projects'
           certificate_url: https://www.coursera.org/account/accomplishments/verify/PYMLJ5UNC57W
           date_end: ''
           date_start: '2018-07-01'
@@ -147,7 +147,7 @@ sections:
           organization: Coursera
           organization_url: https://www.coursera.org
           url: ''
-          - title: 'Machine Learning A-Z™: Hands-On Python & R In Data Science' 
+        - title: 'Machine Learning A-Z™: Hands-On Python & R In Data Science' 
           certificate_url: https://www.udemy.com/certificate/UC-UL1VD3YU/
           date_end: ''
           date_start: '2017-09-20'
@@ -155,7 +155,7 @@ sections:
           organization: Udemy
           organization_url: https://www.udemy.com
           url: ''
-          - title: 'Deep Learning A-Z™: Hands-On Artificial Neural Networks' 
+        - title: 'Deep Learning A-Z™: Hands-On Artificial Neural Networks' 
           certificate_url: https://www.udemy.com/certificate/UC-VLDUTUL2/
           date_end: ''
           date_start: '2017-09-12'
@@ -163,7 +163,7 @@ sections:
           organization: Udemy
           organization_url: https://www.udemy.com
           url: ''
-            -           title: 'Complete Python Bootcamp: Go from zero to hero in Python 3'
+        - title: 'Complete Python Bootcamp: Go from zero to hero in Python 3'
           certificate_url: https://www.udemy.com/certificate/UC-S9U636ET/
           date_end: ''
           date_start: '2017-08-15'
@@ -171,7 +171,7 @@ sections:
           organization: Udemy
           organization_url: https://www.udemy.com
           url: ''
-            - title: 'Structuring Machine Learning Projects'
+        - title: 'Structuring Machine Learning Projects'
           certificate_url: https://www.coursera.org/account/accomplishments/verify/PYMLJ5UNC57W
           date_end: ''
           date_start: '2018-07-01'
