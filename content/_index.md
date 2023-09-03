@@ -41,34 +41,38 @@ sections:
       items:
         - title: Software Engineer
           company: University of Technology, Sydney
-          company_url: ''
-          # company_logo: org-gc
+          company_url: 'https://www.uts.edu.au/about/faculty-engineering-and-information-technology/mechanical-and-mechatronic-engineering'
           location: Sydney
-          date_start: '2021-01-01'
+          date_start: '2022-08-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          description: "Software Engineer at the School of Mechanical and Mechatronics at UTS. The product consists of working on multiple components in the domains such as natural language processing and robotics.
+          Skills: Docker · Computer Vision · Python (Programming Language) · Natural Language Processing (NLP) · Robot Operating System (ROS)"
 
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Software Engineer
           company: University of Technology, Sydney
-          company_url: ''
-          # company_logo: org-x
+          company_url: 'https://www.uts.edu.au/about/faculty-engineering-and-information-technology'
           location: Sydney
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2021-11-01'
+          date_end: '2022-07-31'
+          description: "Software Engineer-AI(Deep Learning). The project utilizes Deep Learning techniques to perform Search And Rescue Operations (SARS) in flooded areas; detect objects of interest and rescue them by dropping life-saving pods. The project was in collaboration with Australia4Innovation and LQTDU Vietnam.
+          Skills: TensorFlow · PyTorch · OpenCV · Python (Programming Language) · Deep Learning"
 
         - title: Casual Academic
           company: University of Technology, Sydney
-          company_url: ''
-          # company_logo: org-x
+          company_url: 'https://www.uts.edu.au/about/faculty-engineering-and-information-technology'
           location: Sydney
-          date_start: '2016-01-01'
+          # date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Taught subjects as Deep Learning and Convulitional Neural Networks, Python for data visualization.
+
+        - title: Research Internship
+          company: University of Technology, Sydney
+          company_url: 'https://www.uts.edu.au/about/faculty-engineering-and-information-technology'
+          location: Sydney
+          date_start: '2020-11-01'
+          date_end: '2022-02-01'
+          description: Research Internship under U.T.S. supervisor Dr S. Nabin (Senior Lecturer and Co-Director Intelligence Drone Lab) in the domain of Computer Vision using Machine and Deep Learning techniques. Consists of working on Computer Vision-based problems and publishing the obtained experimental results.
+
     design:
       columns: '2'
   - block: accomplishments
