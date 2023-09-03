@@ -15,36 +15,24 @@ sections:
     content:
       title: Skills
       items:
-        # - name: R
-        #   description: 90%
-        #   icon: r-project
-        #   icon_pack: fab
-        # - name: Statistics
-        #   description: 100%
-        #   icon: chart-line
-        #   icon_pack: fas
-        # - name: Photography
-        #   description: 10%
-        #   icon: camera-retro
-        #   icon_pack: fas
         - name: Python
-          # description: 90%
+          description: Python Programming Language
           # icon: python
           # icon_pack: fab
         - name: Computer Vision
-          # description: 100%
+          description: Object detection & Object Segmentation
           # icon: Natural Language Processing
           # icon_pack: fas
         - name: Machine Learning
-          # description: 10%
+          description: Regression and Clustering
           # icon: camera-retro
           # icon_pack: fas
         - name: Robotic Operating System(R.O.S)
-          # description: 10%
+          description: Operating System to build robotic applications
           # icon: camera-retro
           # icon_pack: fas
         - name: Docker
-          # description: 10%
+          description: Deployment using containers
           # icon: camera-retro
           # icon_pack: fas
 
@@ -66,8 +54,14 @@ sections:
           location: Sydney
           date_start: '2022-08-01'
           date_end: ''
-          description: "Software Engineer at the School of Mechanical and Mechatronics at UTS. The product consists of working on multiple components in the domains such as natural language processing and robotics.
-          Skills: Docker · Computer Vision · Python (Programming Language) · Natural Language Processing (NLP) · Robot Operating System (ROS)"
+          description:  Software Engineer at the School of Mechanical and Mechatronics at UTS. The product consists of working on multiple components in the domains such as natural language processing and robotics.
+          |2-
+          Skills-> 
+          *Docker 
+          *Computer Vision 
+          *Python (Programming Language) 
+          *Natural Language Processing (NLP) 
+          *Robot Operating System (ROS)
 
         - title: Software Engineer
           company: University of Technology, Sydney
