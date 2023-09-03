@@ -28,25 +28,25 @@ sections:
         #   icon: camera-retro
         #   icon_pack: fas
         - name: Python
-          description: 90%
-          icon: python
-          icon_pack: fab
+          # description: 90%
+          # icon: python
+          # icon_pack: fab
         - name: Computer Vision
-          description: 100%
-          icon: Natural Language Processing
-          icon_pack: fas
+          # description: 100%
+          # icon: Natural Language Processing
+          # icon_pack: fas
         - name: Machine Learning
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          # description: 10%
+          # icon: camera-retro
+          # icon_pack: fas
         - name: Robotic Operating System(R.O.S)
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          # description: 10%
+          # icon: camera-retro
+          # icon_pack: fas
         - name: Docker
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          # description: 10%
+          # icon: camera-retro
+          # icon_pack: fas
 
   - block: experience
     content:
@@ -264,6 +264,15 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+  
+  - block: markdown
+  content:
+    title: Gallery
+    subtitle: 'Extra-curricular'
+    text: |-
+      {{< gallery album="exra" >}}
+  design:
+    columns: '1'
 
   - block: contact
     id: contact
