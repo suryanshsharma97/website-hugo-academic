@@ -1,6 +1,6 @@
 ---
 title: Breast Cancer Classification
-summary: Binary Classification of breast cancer cells. 
+summary: The project consists of a convolutional neural network which can classify the input images to identify the presence of Invasive Ductal Carcinoma (IDC). Our aim to help reduce the probability of human error in classification of Invasive Ductal Carcinoma (IDC) in breast cancer analysis while saving time.  
 tags:
   - Deep Learning
 date: '2020-04-27T00:00:00Z'
@@ -29,7 +29,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
 Cancer is one of the major public health issues in modern world, according to statistics from health organisations such WHO( World Health Organization), GBD(Global Burden of Disease Cancer Collaboration), there has been a rise of around 28% in the number of cancer cases worldwide between the years 2006 to 2016. Among all the various types of cancers known to humans, breast cancer is the most common and lethal in women as there has been around 1.7 million cases, around 540,000 deaths and 15 million disability adjusted life years till 2018. This makes the problem of breast cancer very important to issue deal with and thus our group decided to build a classifier that acts as a step towards tackling this problem.
 
 The product we would deliver would be a GUI based convolutional neural network which can classify the input images to identify the presence of Invasive Ductal Carcinoma (IDC). Our aim to help reduce the probability of human error in classification of Invasive Ductal Carcinoma (IDC) and save time. The product can act as a stand-alone classifier or validation technique to evaluate the manual testing of Invasive Ductal Carcinoma based cells.
