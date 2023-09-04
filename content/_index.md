@@ -18,7 +18,7 @@ sections:
         - name: Python
           description: Python Programming Language
           icon: python
-          icon_pack: fab
+          icon_pack: custom
         - name: Computer Vision
           description: Object detection & Object Segmentation
           icon: glasses-solid
@@ -38,6 +38,14 @@ sections:
         - name: Unix
           description: deploying software using linux servers
           icon: linux
+          icon_pack: custom
+        - name:  PowerBI and Office365
+          description: Power BI for creating dashboards for gathering insights on a dataset 
+          icon: microsoft
+          icon_pack: custom
+        - name:  Java
+          description: Java Programming Language 
+          icon: jaba
           icon_pack: custom
 
   - block: experience
