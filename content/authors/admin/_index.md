@@ -4,7 +4,7 @@ title: Mr. Suryansh SHARMA
 
 # Full name (for SEO)
 first_name: Suryansh
-last_name: Sharma
+last_name: SHARMA
 
 # Status emoji
 status:
@@ -76,6 +76,6 @@ email: 'sharma.suryansh97@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Suryansh SHARMA is a Software Engineer (S.E.) in the School of Mechanical and Mechatronics at the University of Technology Sydney. His work has been on convolutional neural networks, machine learning, natural language processing, and robotic operating system (ROS). He completed his Masters in 2021 from the University of Technology, Syndey and was also awarded Dean's List in 2020 and 2021 while having a W.A.M. of 88.25 across his 2 years of study.    
+Suryansh SHARMA is a Software Engineer (S.E.) in the School of Mechanical and Mechatronics at the University of Technology Sydney. His work has been on convolutional neural networks, machine learning, natural language processing, and robotic operating system (ROS). He completed his Masters in 2021 from the University of Technology, Syndey and was also awarded Dean's List in 2020 and 2021 while having a W.A.M. of 88.25 across his 2 years of study.
 
 {style="text-align: justify;"}
