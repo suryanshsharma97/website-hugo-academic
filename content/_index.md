@@ -33,6 +33,8 @@ sections:
           # icon_pack: fas
         - name: Docker
           description: Deployment using containers
+        - name: Unix
+          description: deploying software using linux servers
           # icon: camera-retro
           # icon_pack: fas
 
@@ -91,7 +93,7 @@ sections:
           date_start: '2020-11-01'
           date_end: '2022-02-01'
           description: |2-
-            Research Internship under U.T.S. supervisor Dr S. Nabin (Senior Lecturer and Co-Director Intelligence Drone Lab) in the domain of Computer Vision using Machine and Deep Learning techniques. Consists of working on Computer Vision-based problems and publishing the obtained experimental results. Required Skill:
+            Research Internship under U.T.S. supervisor Dr Nabin S. (Senior Lecturer and Co-Director Intelligence Drone Lab) in the domain of Computer Vision using Machine and Deep Learning techniques. Consists of working on Computer Vision-based problems and publishing the obtained experimental results. Required Skill:
             * TensorFlow 
             * PyTorch  
             * OpenCV 
