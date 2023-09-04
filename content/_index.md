@@ -284,8 +284,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Kindly fill out the below template if you wish to contact me, thank you.
+      # text: |-
+      #   Kindly fill out the below template if you wish to contact me, thank you.
       # Contact (add or remove contact options as necessary)
       email: sharma.suryansh97@gmail.com
       phone: Available Upon Request
