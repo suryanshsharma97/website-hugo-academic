@@ -221,7 +221,7 @@ sections:
     design:
       columns: '4'
 
-To Edit Projects
+#To Edit Projects
   - block: portfolio
     id: projects
     content:
