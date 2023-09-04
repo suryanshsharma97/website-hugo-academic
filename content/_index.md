@@ -45,7 +45,7 @@ sections:
           icon_pack: custom
         - name:  Java
           description: Java Programming Language 
-          icon: jaba
+          icon: java
           icon_pack: custom
 
   - block: experience
