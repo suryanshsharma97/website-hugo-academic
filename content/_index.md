@@ -17,26 +17,28 @@ sections:
       items:
         - name: Python
           description: Python Programming Language
-          # icon: python
-          # icon_pack: fab
+          icon: python
+          icon_pack: fab
         - name: Computer Vision
           description: Object detection & Object Segmentation
-          # icon: Natural Language Processing
-          # icon_pack: fas
+          icon: glasses-solid
+          icon_pack: custom
         - name: Machine Learning
           description: Regression and Clustering
-          # icon: camera-retro
-          # icon_pack: fas
+          icon: laptop-code-solid
+          icon_pack: custom
         - name: Robotic Operating System(R.O.S)
           description: Operating System to build robotic applications
-          # icon: camera-retro
-          # icon_pack: fas
+          icon: robot-solid
+          icon_pack: custom
         - name: Docker
           description: Deployment using containers
+          icon: docker
+          icon_pack: custom
         - name: Unix
           description: deploying software using linux servers
-          # icon: camera-retro
-          # icon_pack: fas
+          icon: linux
+          icon_pack: custom
 
   - block: experience
     content:
