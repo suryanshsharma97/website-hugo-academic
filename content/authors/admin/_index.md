@@ -36,7 +36,7 @@ education:
     - course: Master in Information Technology
       institution: University of Technology, Sydney
       year: 2021
-    - course: Bachelors of Technology
+    - course: Bachelor of Technology
       institution: Birla Institute of Technology, Mesra
       year: 2018
 
