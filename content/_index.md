@@ -103,10 +103,10 @@ sections:
           date_start: '2021-11-01'
           date_end: '2022-07-31'
           description: |2-
-          Software Engineer-AI(Deep Learning) at School of Computer Science. The project utilizes Deep Learning techniques(object detection) to perform Search And Rescue Operations (SARS) in flooded areas; detect objects of interest and rescue them by dropping life-saving pods. The project was in collaboration with Australia4Innovation and LQTDU Vietnam.
+            Software Engineer-AI(Deep Learning) at School of Computer Science. The project utilizes Deep Learning techniques(object detection) to perform Search And Rescue Operations (SARS) in flooded areas; detect objects of interest and rescue them by dropping life-saving pods. The project was in collaboration with Australia4Innovation and LQTDU Vietnam.
 
-          * Developed computer vision model tailored to different terrains (forests, water bodies, hilly areas) to minimize false positives and enhance environment-specific detection for detecting people drowning in floods.
-          * Winner of NSW State iAwards 2024 in goverment and public sector.
+            * Developed computer vision model tailored to different terrains (forests, water bodies, hilly areas) to minimize false positives and enhance environment-specific detection for detecting people drowning in floods.
+            * Winner of NSW State iAwards 2024 in goverment and public sector.
 
         - title: Casual Academic
           company: University of Technology, Sydney
