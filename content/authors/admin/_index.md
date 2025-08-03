@@ -18,8 +18,8 @@ role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Technology, Sydney
-    url: https://www.uts.edu.au/
+  - name:Droneshield, Sydney
+    url: https://www.droneshield.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer vision, machine learning and robotics.

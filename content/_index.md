@@ -60,6 +60,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: AI Software Engineer
+          company: DroneShield, Sydney
+          company_url: 'https://www.droneshield.com/'
+          location: Sydney
+          date_start: '2024-09-01'
+          date_end: ''
+          description: |2-  
+            AI Software Engineer in the Radio Frequency AI Team at Droneshield. My responsibilites include but arent limited to. 
+
+            * Conducting research on new algorithmic capabilities and performing feasibility assessments.
+            * Analysing unlabelled radio frequency data to mark out signal characteristics.
+            * Developing detection and tracking algorithms to identify objects of interest in the RF spectrum.
+            * Creating visualizations of inferred outputs, to identify anomalies and detect dataset outliers.
+            * Managing and implementing pipelines for evaluating and benchmarking algorithms.
+            * Implementing systems in object-oriented languages, adhering to software design best practice.
+            * Profiling, testing, and debugging code to improve performance and reduce computational complexity.
+            * Writing and maintaining documentation for the RFAI software stack.
+            * Attending meetings with project stakeholders to gather insights and understand evolving requirements.
+            * Collaborating with cross-functional teams to enhance existing systems and develop new features.
+            * Contributing domain expertise to guide feature development and decision-making.
         - title: Software Engineer
           company: University of Technology, Sydney
           company_url: 'https://www.uts.edu.au/about/faculty-engineering-and-information-technology/mechanical-and-mechatronic-engineering'
@@ -67,12 +87,14 @@ sections:
           date_start: '2022-08-01'
           date_end: ''
           description: |2-  
-            Software Engineer at the School of Mechanical and Mechatronics at UTS. The product consists of working on multiple components in the domains such as natural language processing and robotics. Required Skill:
-            * Docker 
-            * Computer Vision 
-            * Python (Programming Language) 
-            * Natural Language Processing (NLP) 
-            * Robot Operating System (ROS)
+            The project was in collaboration with MissionSystems called HyperTeaming. The projects utilizes "Decentralized Monte Carlo Tree Search: DECMCTS" to perform coordinated exploration through autonomous vehicles(air and ground). My work was primiarily focused towards the software stack for the autonomous ground vehicle. The ground vehicle and the autonomy stack(Path Planners) was developed at UTS.
+
+            * Worked on ground plane removal-based algorithm that works on point density to segment ground and non-ground points, downsampled points for computational efficiency, and integrated with the robot navigation stack to create a costmap. This helped maintain the desired publish rate on a higher resolution point cloud.
+            * Collaborated on Adaptive Trajectory Planner, creating a version that supports four-wheel steering trajectories to perform spot turns for goal positions situated behind the robot. Using inflation costs and the trajectory definitions (and proper cost functions), the robot can drive autonomously through different terrains. Also, made an additional node that would provide reverse velocity commands when there is not enough momentum to perform a spot turn integrated with the twist-mux package.
+            * Managed systems running on Ubuntu with ROS, deploying services using containers to avoid dependency issues.
+            * Developed multi-threading packages for handling sensor data and concurrent processes using techniques like bind boost and boost thread to run functions simultaneously within a node.
+            * C++, Python, and Bash: Utilized C++ for high-performance tasks such as local planning and joystick interface, and Python for tasks like GUI development and twist-mux locks. Transitioned from bash to docker-compose for package deployment ease.
+            * Created an NLP model to convert natural language commands into signal temporal logic formulas for initiating robot path planning. This model achieved higher accuracy than previous models in the field and was the basis for a paper published in ACRA 2023.
 
         - title: Software Engineer
           company: University of Technology, Sydney
@@ -81,12 +103,10 @@ sections:
           date_start: '2021-11-01'
           date_end: '2022-07-31'
           description: |2-
-            Software Engineer-AI(Deep Learning). The project utilizes Deep Learning techniques to perform Search And Rescue Operations (SARS) in flooded areas; detect objects of interest and rescue them by dropping life-saving pods. The project was in collaboration with Australia4Innovation and LQTDU Vietnam. Required Skill:
-            * TensorFlow 
-            * PyTorch  
-            * OpenCV 
-            * Python (Programming Language) 
-            * Deep Learning
+          Software Engineer-AI(Deep Learning) at School of Computer Science. The project utilizes Deep Learning techniques(object detection) to perform Search And Rescue Operations (SARS) in flooded areas; detect objects of interest and rescue them by dropping life-saving pods. The project was in collaboration with Australia4Innovation and LQTDU Vietnam.
+
+          * Developed computer vision model tailored to different terrains (forests, water bodies, hilly areas) to minimize false positives and enhance environment-specific detection for detecting people drowning in floods.
+          * Winner of NSW State iAwards 2024 in goverment and public sector.
 
         - title: Casual Academic
           company: University of Technology, Sydney
@@ -282,14 +302,14 @@ sections:
     design:
       columns: '1'
   
-  - block: markdown
-    content:
-      title: Extra-curricular
-      subtitle: ''
-      text: |-
-        {{< gallery album="extracurricular" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Extra-curricular
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="extracurricular" >}}
+  #   design:
+  #     columns: '1'
 
   - block: contact
     id: contact
